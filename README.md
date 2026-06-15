@@ -33,7 +33,7 @@ This Repository consists of all the Jupyter Notebook (.ipynb) files, python file
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/ADVAIT135/Forage_BCGX_Gen_AI_Virtual_Job_Simulation-.git
+   https://github.com/whoistausif/BCGX-GenAi-Job-Simulation-Material.git
    cd Forage_BCGX_Gen_AI_Virtual_Job_Simulation-
    ```
 2. **Open the relevant task folder.**
